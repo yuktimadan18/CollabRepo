@@ -1,2 +1,2 @@
-"This is my change in feature branch" 
-"Second change for PR" 
+Initial file in main branch
+This is my change in feature branch
